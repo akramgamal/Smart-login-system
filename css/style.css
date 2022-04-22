@@ -1,0 +1,36 @@
+#home{
+    background: #24353f;
+}
+#home .home-content{
+    width: 60%;
+    margin: auto;
+    background: #24353f;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+#home .home-content .sign{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+#home .home-content h1{
+    color: #17a2b8;
+}
+#home .home-content p,#home .home-content a{
+    color: white;
+}
+#home .home-content a{
+    text-decoration: none;
+}
+#home .home-content a:hover{
+    text-decoration-line: underline;
+}
+input::placeholder{
+    color:white !important;
+    opacity: 0.5 !important;
+}
+input{
+    color :white !important;
+}
+.btn:hover{
+color:white !important;
+}

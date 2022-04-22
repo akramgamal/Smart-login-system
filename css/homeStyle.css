@@ -1,0 +1,29 @@
+#home ,nav{
+    background: #24353f;
+}
+nav{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.btn{
+background-color: transparent !important;
+}
+a{
+ color:grey !important;
+}
+.one{
+    font-size: 1.5rem !important;   
+}
+.btn:hover{
+    background-color: orange !important;
+    color: white !important;
+}
+.btn:hover a{
+    color:white !important;
+}
+.home-content{
+    background: #24353f;
+    color: rgb(23, 162, 184);
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    width: 50%;
+    height: 20%;
+}
